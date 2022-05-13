@@ -1,0 +1,17 @@
+html {
+    background-color: #121212;
+}
+h1 {
+    font-family: monospace;
+    color: #9472af;
+    font-weight: bolder;
+}
+h2 {
+    font-family: monospace;
+    color: #3690f8;
+    font-weight: bolder;
+}
+p {
+    color: white;
+    font-family: monospace;
+}
